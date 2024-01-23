@@ -1,0 +1,32 @@
+body {
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+    zoom: 70%;
+    overflow-x: hidden;
+}
+
+.cloudimg {
+    zoom: 100%;
+    overflow-x: hidden;
+    width: width;
+}
+
+#blackness {
+    color: black;
+}
+
+.centertext {
+    text-align: center;
+}
+.roundbutton {
+    border: none;
+    text-align: center;
+    border-radius: 12px;
+}
+
+#linkbutton {
+    background-color: #ff0000;
+    cursor: hand;
+    padding: 12px 25px;
+}
